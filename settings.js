@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['0788812611']
-global.premium = ['0788812611']
-global.ownernomer = '0788812611'
+global.owner = ['0773596116']
+global.premium = ['0773596116']
+global.ownernomer = '0773596116'
 global.ownername = 'Blacky'
-global.botname = 'lisa'
+global.botname = 'blacky💗'
 global.footer = 'blacky'
-global.ig = 'https://github.com/nexusNw'
+global.ig = 'https://www.instagram.com/invites/contact/?i=1whphec1rj7l9&utm_content=mtswn5h
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'lisa'
-global.author = 'blacky'
+global.packname = 'Blacky💗'
+global.author = 'blacky💗'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
